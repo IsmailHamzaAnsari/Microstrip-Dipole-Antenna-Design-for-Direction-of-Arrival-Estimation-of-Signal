@@ -50,7 +50,7 @@ matched the CST simulation, validating the design methodology.
 - `Smith_impedance_plot_of_MDA_at_2.4_GHz.png` - Smith impedance plot at resonance (2.4 GHz)
 - `radiation_pattern.png` — E- and H-plane polar radiation pattern
 - `Measured_reflection_coeffcient_plot_of_fabricated_MDA.png` - Measured |S11| vs frequency
-- `paper/` — accepted manuscript (author copy)
+- `Paper.pdf` — accepted manuscript (author copy)
 
 ## Publication
 P. S. Rathore, S. K. Jain, A. Jain, I. H. Ansari, "Microstrip Dipole 
